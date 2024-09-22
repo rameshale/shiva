@@ -36,7 +36,7 @@ const Hero = () => {
                 "
                 role="button"
               >
-                Shop Now
+                Discover
                 <svg
                   className="h-4 w-4 md:w-6 md:h-6 ml-8 -mr-2"
                   xmlns="http://www.w3.org/2000/svg"
